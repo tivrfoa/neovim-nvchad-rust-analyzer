@@ -1,0 +1,1 @@
+# neovim-nvchad-rust-analyzer
