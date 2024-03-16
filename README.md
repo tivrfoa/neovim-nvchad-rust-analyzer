@@ -21,6 +21,8 @@ source: [https://www.reddit.com/r/neovim/comments/12qku4w/nvchad_cheatsheet/
 
 # References
 
+[Neovim Kickstart](https://github.com/nvim-lua/kickstart.nvim/tree/master)
+
 https://nvchad.com/docs/config/lsp
 
 https://github.com/neovim/nvim-lspconfig
